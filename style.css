@@ -1,0 +1,20 @@
+body{
+    display: block;
+    content: " ";
+    height: 60px;
+}
+/* #map{
+    width: 300%;
+    height: 400%;
+    border-radius: 10px;
+}   */
+@media (min-width: 768px){
+    .nwes-input{
+        width: 50%;
+    }
+}
+
+#footer{
+    text-align: center;
+    font-size: 14px;
+}
